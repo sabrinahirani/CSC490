@@ -10,4 +10,4 @@ Authors: Srisaran Chandramouli, Sabrina Hirani, Babur Nawyan
 * HME100K dataset (74,502 training images and 24,607 test images)
 
 ### Approach:
-We plan to implement a forest position transformer for mathematical handwriting recognition. 
+We plan to implement a forest position transformer for mathematical handwriting expression recognition. 
