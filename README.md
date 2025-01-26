@@ -2,7 +2,8 @@
 
 Authors: Srisaran Chandramouli, Sabrina Hirani, Babur Nawyan
 
-### Problem:
+### Problem: 
+With the increasing advancements in robotics and AI, image recognition and image parsing are fields that are rising in popularity. This project focuses on Handwritten Mathematical Expression Recognition (HMER). Given a 2D image(with one channel) of a handwritten mathematical equation, we aim to recognize the mathematical expression and output its corresponding LATEX code. This idea has a variety of applications ranging from digitization of old articles and journals to test auto-grader.
 
 ### Dataset: 
 * CROHME dataset (one combined training test, 3 test sets, single-line mathematical expressions)
